@@ -6,3 +6,4 @@ output/*
 !output/.gitkeep
 incoming/*
 !incoming/.gitkeep
+flume.log
