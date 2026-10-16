@@ -2,8 +2,13 @@
 __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
+flume.log
 output/*
 !output/.gitkeep
+!output/analytics/
+!output/flume/
 incoming/*
 !incoming/.gitkeep
-flume.log
+
+output/analytics/
+output/flume/
